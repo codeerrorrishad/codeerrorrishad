@@ -1,7 +1,7 @@
 ## Hi👋I am R J A H Rishad
 
 # 💫 About Me:
-🔭I’m currently working on front-end web projects<br>👯I’m looking to collaborate on UI and web development projects.<br>🤔 I’m looking for help with advanced animations and performance.<br>💬Ask me about HTML, CSS, JavaScript, and front-end tools.<br>📫How to reach me: alifanam3210@email.com<br>😄Pronouns: He/Him<br>⚡ Fun fact: I love turning designs into code.<br>R J A H Rishad I'm a passionate Front-End Developer with a focus on building clean, responsive, and user-friendly websites. I specialize in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, and React. I build clean, responsive, and high-performance websites with a strong focus on user experience and modern design standards.
+🔭I’m currently working on front-end web projects<br>👯I’m looking to collaborate on UI and web development projects.<br>🤔 I’m looking for help with advanced animations and performance.<br>💬Ask me about HTML, CSS, JavaScript, and front-end tools.<br>📫How to reach me: rjahrishad69@gmail.com<br>😄Pronouns: He/Him<br>⚡ Fun fact: I love turning designs into code.<br>R J A H Rishad I'm a passionate Front-End Developer with a focus on building clean, responsive, and user-friendly websites. I specialize in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, and React. I build clean, responsive, and high-performance websites with a strong focus on user experience and modern design standards.
 
 
 ## 🌐 Socials:
